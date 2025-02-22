@@ -1,6 +1,6 @@
-# AI Logistics Agent
+# LogiBot
 
-An AI-powered logistics management system built with Streamlit and IBM's Granite LLM API. This application helps dispatchers and logistics managers handle delivery operations more efficiently through an interactive chat interface and dashboard.
+LogiBot is an AI-powered logistics management system built with Streamlit and IBM's Granite LLM API. This application helps dispatchers and logistics managers handle delivery operations more efficiently through an interactive chat interface and dashboard.
 
 ## Features
 
