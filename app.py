@@ -178,8 +178,8 @@ def show_shipment_tracking():
 
 
 def show_ai_chatbot():
-    st.title("💬 Logibot powered by IBM Granite 3-8b-instruct")
-    st.write("🚀 The Logistical Agent for Dispatcher Support")
+    st.title("💬 Logibot - The Logistical Agent")
+    st.write("🚀 Powered by IBM Granite 3-8b-instruct")
 
     # Sidebar: System prompt and clear chat button
     with st.sidebar:
