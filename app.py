@@ -4,8 +4,8 @@ import time
 import requests
 
 # --- CONFIGURATION ---
-# IBM Cloud API Key (update with env variables in production)
-API_KEY = 'rb8KNVLDwDgeji47IgvqpC518efFkfFCCpFj4o80lyFK'
+# Get API Key from Streamlit secrets
+API_KEY = st.secrets["IBM_API_KEY"]
 
 # URLs
 IAM_TOKEN_URL = 'https://iam.cloud.ibm.com/identity/token'
