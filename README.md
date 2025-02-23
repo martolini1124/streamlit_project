@@ -53,7 +53,7 @@ LogiBot is an AI-powered logistics management system built with Streamlit and IB
 ## Environment Variables
 
 For production deployment, configure the following:
-- `API_KEY`: IBM Cloud API Key
+- `IBM_API_KEY`: IBM Cloud API Key
 
 ## Getting Started
 
