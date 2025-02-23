@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Local development settings
+*.local
+.env.local
+config.local.yaml
